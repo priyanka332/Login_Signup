@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "vishakha mazire",
+            "Password": "Vishakha@26",
+            "Profile": {
+                "description": "happy",
+                "DOB": "26/2/2000",
+                "Sex": "female",
+                "hobbies": "travel"
+            }
+        }
+    ]
+}
